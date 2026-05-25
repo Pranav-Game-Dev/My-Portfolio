@@ -1,0 +1,29 @@
+{
+  "name": "pranav-portfolio",
+  "version": "1.0.0",
+  "description": "Pranav Dabhi - Game Developer & 3D Artist Portfolio",
+  "type": "module",
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo \"Static site - no build needed\"",
+    "test": "echo \"No tests specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pranav-Game-Dev/My-Portfolio.git"
+  },
+  "keywords": [
+    "portfolio",
+    "game-developer",
+    "3d-artist"
+  ],
+  "author": "Pranav Dabhi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pranav-Game-Dev/My-Portfolio/issues"
+  },
+  "homepage": "https://github.com/Pranav-Game-Dev/My-Portfolio#readme",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
